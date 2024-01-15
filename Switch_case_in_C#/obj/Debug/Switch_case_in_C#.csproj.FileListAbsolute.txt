@@ -1,0 +1,7 @@
+C:\Users\SHIVAM KUMAR\source\repos\Switch_case_in_C#\bin\Debug\Switch_case_in_C#.exe.config
+C:\Users\SHIVAM KUMAR\source\repos\Switch_case_in_C#\bin\Debug\Switch_case_in_C#.exe
+C:\Users\SHIVAM KUMAR\source\repos\Switch_case_in_C#\bin\Debug\Switch_case_in_C#.pdb
+C:\Users\SHIVAM KUMAR\source\repos\Switch_case_in_C#\obj\Debug\Switch_case_in_C#.csproj.AssemblyReference.cache
+C:\Users\SHIVAM KUMAR\source\repos\Switch_case_in_C#\obj\Debug\Switch_case_in_C#.csproj.CoreCompileInputs.cache
+C:\Users\SHIVAM KUMAR\source\repos\Switch_case_in_C#\obj\Debug\Switch_case_in_C#.exe
+C:\Users\SHIVAM KUMAR\source\repos\Switch_case_in_C#\obj\Debug\Switch_case_in_C#.pdb
