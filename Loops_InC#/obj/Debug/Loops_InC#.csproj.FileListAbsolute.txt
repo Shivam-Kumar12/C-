@@ -1,0 +1,7 @@
+C:\Users\SHIVAM KUMAR\source\repos\Loops_InC#\bin\Debug\Loops_InC#.exe.config
+C:\Users\SHIVAM KUMAR\source\repos\Loops_InC#\bin\Debug\Loops_InC#.exe
+C:\Users\SHIVAM KUMAR\source\repos\Loops_InC#\bin\Debug\Loops_InC#.pdb
+C:\Users\SHIVAM KUMAR\source\repos\Loops_InC#\obj\Debug\Loops_InC#.csproj.AssemblyReference.cache
+C:\Users\SHIVAM KUMAR\source\repos\Loops_InC#\obj\Debug\Loops_InC#.csproj.CoreCompileInputs.cache
+C:\Users\SHIVAM KUMAR\source\repos\Loops_InC#\obj\Debug\Loops_InC#.exe
+C:\Users\SHIVAM KUMAR\source\repos\Loops_InC#\obj\Debug\Loops_InC#.pdb
