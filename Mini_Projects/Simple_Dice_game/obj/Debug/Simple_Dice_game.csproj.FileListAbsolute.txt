@@ -1,0 +1,7 @@
+C:\Users\SHIVAM KUMAR\source\repos\Simple_Dice_game\bin\Debug\Simple_Dice_game.exe.config
+C:\Users\SHIVAM KUMAR\source\repos\Simple_Dice_game\bin\Debug\Simple_Dice_game.exe
+C:\Users\SHIVAM KUMAR\source\repos\Simple_Dice_game\bin\Debug\Simple_Dice_game.pdb
+C:\Users\SHIVAM KUMAR\source\repos\Simple_Dice_game\obj\Debug\Simple_Dice_game.csproj.AssemblyReference.cache
+C:\Users\SHIVAM KUMAR\source\repos\Simple_Dice_game\obj\Debug\Simple_Dice_game.csproj.CoreCompileInputs.cache
+C:\Users\SHIVAM KUMAR\source\repos\Simple_Dice_game\obj\Debug\Simple_Dice_game.exe
+C:\Users\SHIVAM KUMAR\source\repos\Simple_Dice_game\obj\Debug\Simple_Dice_game.pdb
